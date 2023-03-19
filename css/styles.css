@@ -1,0 +1,18 @@
+div{
+    background-color: antiquewhite;
+    
+}
+
+body.swal2-shown > [aria-hidden="true"] {
+    transition: 0.1s filter;
+    filter: blur(10px);
+  }
+
+main .Formulario {
+        display: inline;
+        font-size: 1rem;
+        margin: 30px;
+        padding: 30px;
+        border: dotted #ECCCB2;
+        text-align: center; }
+ 
